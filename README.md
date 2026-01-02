@@ -2,7 +2,7 @@
 
 Welcome to the source code for my portfolio website! This repository showcases my personal portfolio, which highlights my skills, projects, and expertise in frontend development, UI/UX design, and tech blogging.
 
-![Portfolio Preview](#) 
+![Portfolio Preview](https://i.postimg.cc/28fz0J6T/chrome-screenshot-Jan-2-2026-11-48-08-PM-GMT-06-00.png) 
 
 
 ## Table of Contents
